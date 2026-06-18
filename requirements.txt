@@ -111,7 +111,7 @@ pyasn1==0.6.1
 pyasn1_modules==0.4.2
 pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
 pydantic==2.11.4
-pydantic_core==2.33.2
+pydantic_core==2.47.0
 Pygments @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_f0f10r98sf/croot/pygments_1744664126614/work
 pyparsing @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_65qfw6vkxg/croot/pyparsing_1731445528142/work
 PySocks @ file:///Users/cbousseau/work/recipes/ci_py311/pysocks_1677906386870/work
