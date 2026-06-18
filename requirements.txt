@@ -38,7 +38,7 @@ google-api-core==2.25.0rc1
 google-api-python-client==2.169.0
 google-auth==2.40.1
 google-auth-httplib2==0.2.0
-google-auth-oauthlib==1.2.2
+google-auth-oauthlib==1.4.0
 google-generativeai==0.8.5
 googleapis-common-protos==1.70.0
 greenlet @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_3fdrsxa1og/croot/greenlet_1733860082149/work
